@@ -1,0 +1,4 @@
+com\ezypay\RestAPITest.class
+com\ezypay\SubscriptionMonthlyTest.class
+com\ezypay\SubscriptionWeeklyTest.class
+com\ezypay\SubscriptionDailyTest.class

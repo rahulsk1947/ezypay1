@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="java" project="ezypay" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.mkyong.core.MessageServiceTest" time="0.023" displayname="MessageServiceTest" uniqueid="[engine:junit-jupiter]/[class:com.mkyong.core.MessageServiceTest]">
+    <testcase name="testGet" classname="com.mkyong.core.MessageServiceTest" time="0.023" displayname="Test MessageService.get()" uniqueid="[engine:junit-jupiter]/[class:com.mkyong.core.MessageServiceTest]/[method:testGet()]"/>
+  </testsuite>
+</testrun>
